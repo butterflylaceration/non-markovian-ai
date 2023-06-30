@@ -1,2 +1,2 @@
-readme in progress
-by akira li, supervisef by christina giarmatzi
+readme in progress 
+by akira li, supervised by christina giarmatzi
