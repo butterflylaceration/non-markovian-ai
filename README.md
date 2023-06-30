@@ -1,1 +1,2 @@
-I'm not sure why this isn't working and I want to cry
+readme in progress
+by akira li, supervisef by christina giarmatzi
